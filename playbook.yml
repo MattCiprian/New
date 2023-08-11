@@ -1,1 +1,10 @@
+---
+- name:
+- hosts:
+- tasks:
+  - name: Afiseza
+    prompt: Masina calca soarecele (Da sau Nu)
+...
+  
+  
 
